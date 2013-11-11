@@ -20,4 +20,4 @@
 . /etc/profile
 . /etc/profile.d/modules.sh
 
-./mmult > testrun.txt
+./mmult 2> testrun.txt
