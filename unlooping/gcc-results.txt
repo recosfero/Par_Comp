@@ -1,0 +1,8 @@
+#M,N,K,tmmult,tdgemm,gflops_mmult,gflops_dgemm
+1000,1000,1000,4.689718,0.247403,426.464874,8083.971614
+Unloop 4: 4.272976sec, 468.057842gflops
+Unloop 8: 4.205448sec, 475.573572gflops
+Unloop 26: 4.176704sec, 478.846486gflops
+Unloop 24: 3.916517sec, 510.657809gflops
+Unloop 28: 3.926367sec, 509.376729gflops
+Unloop 222: 3.599626sec, 555.613268gflops
