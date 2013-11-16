@@ -93,7 +93,7 @@ int main(int argc, char* argv[])
     
     executeUnloopMethod(nflop, mmult_unroll4, "Unloop 4");
     executeUnloopMethod(nflop, mmult_unroll8, "Unloop 8");
-    executeUnloopMethod(nflop, mmult_unroll16, "Unloop 26");
+    executeUnloopMethod(nflop, mmult_unroll16, "Unloop 16");
     executeUnloopMethod(nflop, mmult_unroll24, "Unloop 24");
     executeUnloopMethod(nflop, mmult_unroll28, "Unloop 28");
     executeUnloopMethod(nflop, mmult_unroll222, "Unloop 222");
